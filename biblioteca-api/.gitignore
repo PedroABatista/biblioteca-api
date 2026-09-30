@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### VS Code ###
+.vscode/
+
+# config local do banco (nao sobe senha)
+application-local.properties
+
+# sistema operacional
+.DS_Store
+Thumbs.db
